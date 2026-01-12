@@ -4,6 +4,10 @@
 
 **推荐项目👍👍**
 
+[https://github.com/trueai-org/simple-database-benchmark]
+
+> 🍚 一个用于对比测试多种数据库性能的 .NET 控制台应用程序，数据库性能评测。
+
 [https://github.com/trueai-org/ultra-kv](https://github.com/trueai-org/ultra-kv)
 
 > 🚀 UltraKV - 单文件极速键值存储引擎，🎯 极简代码，极致性能。
